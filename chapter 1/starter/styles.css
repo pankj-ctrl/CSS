@@ -1,0 +1,62 @@
+
+
+/* Basic page setup */
+body {
+  margin: 0;
+  padding: 16px;
+  font-family: Arial, sans-serif; /* Simpler font list */
+  color: #222; /* Dark grey text */
+  background: #f8fafc; /* Very light grey background */
+}
+
+/* Header styles */
+header {
+  margin-bottom: 20px;
+}
+.title {
+  color: teal;
+  font-size: 32px;
+}
+.lead {
+  color: #6b7280; /* Muted grey color */
+  margin: 0;
+}
+
+/* Content section styles */
+section {
+  background: white;
+  padding: 16px;
+  border-radius: 8px; /* Rounded corners */
+  margin-bottom: 16px;
+  border: 1px solid #eee; /* A simple border instead of a shadow */
+}
+
+.highlight {
+  background: #fffbeb; /* Light yellow background */
+  border-left: 4px solid #f59e0b; /* Amber left border */
+  padding: 4px 8px;
+}
+
+.muted {
+  color: #6b7280;
+}
+
+/* Button styles */
+.cta {
+  display: inline-block;
+  background: teal;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 6px;
+  border: none; /* No border */
+  font-weight: 600; /* Bolder text */
+  cursor: pointer; /* Hand cursor on hover */
+}
+
+/* Footer styles */
+footer {
+  text-align: center;
+  margin-top: 24px;
+  font-size: 14px;
+  color: #6b7280;
+}
