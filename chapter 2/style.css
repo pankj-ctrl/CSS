@@ -1,0 +1,31 @@
+*{
+    background-color: pink;
+    margin: 0;
+    padding: 0;
+}
+h1,h2,h3{
+    color:blue;
+}
+.firstheading{
+    color:red;
+}
+
+#heading3{
+  color:aqua;
+}
+
+article p{
+    color:blueviolet;
+}
+
+div>p{
+    color:brown;
+}
+
+h1:hover{
+    color:darkgoldenrod;
+}
+
+p::first-letter{
+    font-size: 30px;
+}
