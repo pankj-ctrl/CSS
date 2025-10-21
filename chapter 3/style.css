@@ -1,0 +1,36 @@
+/* p{
+    color:red;
+} */
+
+
+/* p{
+    color:#00ff00;
+} */
+
+/* p{
+    color:rgb(255, 0, 0,0.5)
+} */
+
+/* p{   
+    font-size: 16px;
+    color:hsl(249, 100%, 27%);
+    margin:3rem;
+} */
+
+/* .div1{
+    height: 200px;
+    width: 200px;
+    border:2px solid black;
+} */
+
+/* .div2{
+    height:50%;
+    width:50%;
+    border:2px solid black;
+} */
+
+body{
+    height:200px;
+    width:100vw;
+    background-color: aqua;
+}
